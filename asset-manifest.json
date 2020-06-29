@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bunnyreddy17303/saimovies/static/css/main.57fbc47d.chunk.css",
+    "main.js": "/bunnyreddy17303/saimovies/static/js/main.f3309e15.chunk.js",
+    "main.js.map": "/bunnyreddy17303/saimovies/static/js/main.f3309e15.chunk.js.map",
+    "runtime-main.js": "/bunnyreddy17303/saimovies/static/js/runtime-main.0033483c.js",
+    "runtime-main.js.map": "/bunnyreddy17303/saimovies/static/js/runtime-main.0033483c.js.map",
+    "static/js/2.a13bd1df.chunk.js": "/bunnyreddy17303/saimovies/static/js/2.a13bd1df.chunk.js",
+    "static/js/2.a13bd1df.chunk.js.map": "/bunnyreddy17303/saimovies/static/js/2.a13bd1df.chunk.js.map",
+    "index.html": "/bunnyreddy17303/saimovies/index.html",
+    "precache-manifest.50978c817508c29c917f545f2b3714cb.js": "/bunnyreddy17303/saimovies/precache-manifest.50978c817508c29c917f545f2b3714cb.js",
+    "service-worker.js": "/bunnyreddy17303/saimovies/service-worker.js",
+    "static/css/main.57fbc47d.chunk.css.map": "/bunnyreddy17303/saimovies/static/css/main.57fbc47d.chunk.css.map",
+    "static/js/2.a13bd1df.chunk.js.LICENSE.txt": "/bunnyreddy17303/saimovies/static/js/2.a13bd1df.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0033483c.js",
+    "static/js/2.a13bd1df.chunk.js",
+    "static/css/main.57fbc47d.chunk.css",
+    "static/js/main.f3309e15.chunk.js"
+  ]
+}
