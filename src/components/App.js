@@ -65,7 +65,9 @@ class App extends React.Component {
         </div>
       </div>
     );
+
   }
+  
 }
 
 // class AppWrapper extends React.Component {
